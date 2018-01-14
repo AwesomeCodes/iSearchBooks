@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">iSearchBooks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <!-- The label for use as a searchable item -->
+    <string name="search_label">Books</string>
+
+    <!-- The hint text that appears in the search box. -->
+    <string name="search_hint">Search books</string>
+
+    <!-- The menu entry that invokes search. -->
+    <string name="menu_search">Search</string>
+
+    <!-- The description that will show up in the search settings for this source.  -->
+    <string name="settings_description">Book Details</string>
+
+    <!-- General instructions in the main activity. -->
+    <string name="search_instructions">Click the search above to look up a book</string>
+
+    <!-- Shown above search results when we receive a search request. -->
+    <plurals name="search_results">
+      <item quantity="one">%1$d result for \"%2$s\": </item>
+      <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+
+    <!-- Search failure message. -->
+    <string name="no_results">No results found for \"%s\"</string>
+    <string name="menu_about"></string>
+    <string name="About">About</string>
+    <string name="Developers">Marc Josel Nario\n\nJakellen Dungca\n\nIan Timoteo\n\nBianca Hilario</string>
+    <string name="developers_title">Developers:</string>
+    <string name="Employee">Library Staff</string>
+    <string name="Help">Help</string>
+    <string name="oic">ANNA DIVINE D. ESPIRITU</string>
+    <string name="faculty">UA College Library Staff</string>
+    <string name="oicDetails">Officer In-Charge, UA Libraries</string>
+    <string name="techstud">DONA B. BERENIO</string>
+    <string name="techstudDetails">Librarian, Technological Studies/ Graduate School/ Reference Sectios - College Library</string>
+    <string name="techsec">ANTONINO P. DIAZ</string>
+    <string name="techsecDetails">Librarian, Technical Section / Library Automation \n College Library</string>
+    <string name="persec">GRACE ANN VALONDO</string>
+    <string name="persecDetails">Librarian, Periodical Section \n College Library</string>
+    <string name="auvis">MARY JANE D. CARANTO</string>
+    <string name="auvisDetails">Librarian, Audio - Visual Center &amp; Internet Section \n College Library</string>
+    <string name="cirsec">ALLAN M. ESBER</string>
+    <string name="cirsecDetails">Librarian, Circulation Section \n College Library</string>
+    <string name="hrm">ERMA R. MANALO</string>
+    <string name="hrmDetails">Librarian, HRM, Tourism Management and Nursing/ Filipiniana/Reserve Sections - College Library</string>
+    <string name="picture1">title and author</string>
+    <string name="titleofhelp">Search Result Guide</string>
+    <string name="picture2">help1</string>
+    <string name="Sections">Sections</string>
+    <string name="oicEmail">Email: ua_library@yahoo.com.ph</string>
+    <string name="oicCom">InterCom: #209</string>
+    <string name="techstudEmail">Email: dberenio@yahoo.com</string>
+    <string name="techstudCom">InterCom: #208</string>
+    <string name="techsecEmail">Email: tonypdiaz@yahoo.com</string>
+    <string name="techsecCom">InterCom: #209</string>
+    <string name="persecEmail">Email: graceannvalondo@yahoo.com</string>
+    <string name="persecCom">InterCom: #208</string>
+    <string name="auvisEmail">Email: maryjane_caranto@yahoo.com</string>
+    <string name="auvisCom">InterCom: #206</string>
+    <string name="cirsecEmail">Email: esber13@yahoo.com</string>
+    <string name="cirsecCom">InterCom: #208</string>
+    <string name="hrmEmail">Email: ethgab@yahoo.com</string>
+    <string name="hrmCom">InterCom: #207</string>
+    <string name="propic">Profile Picture</string>
+    <string name="emp_title">• Select a name below to view their information.</string>
+    <string name="Web">Athena Webserver</string>
+    <string name="aboutapp"> \t iSearch Books is a mobile application that will bridge the smartphone usage and the library using android technology. Students who are fond of going through the net with their devices will be combined with them using their mobile phones to interact and gather information to the library. The application provides a search engine which contains the books of the library. Books were categorized in different sections. It has also a feature where in users can see the MAP of the University Library. The application will run using an Android device. It was created using basic Java via tool called Eclipse ADT(Android Development Tools). </string>
+    <string name="joselemail">marc_josel@yahoo.com \nLead Programmer/Researcher</string>
+    <string name="jakeemail">jakellendungca@gmail.com \nAssistant Programmer/Researcher</string>
+    <string name="biancaemail">bfahilario@gmail.com \nSystem Designer/Researcher/Debugger</string>
+    <string name="ianemail">ian_timoteo_17@yahoo.com \nSystem Designer/Researcher/Debugger</string>
+    <string name="juliusname">JULIUS VINCENT D. LACSON</string>
+    <string name="library1">The library is a major resource of any institution of higher learning. College students study intensive fast-changing body of knowledge that even reading a half dozen books will not provide. Research occupies a very significant place in every colleges and universities. The library plays a vital role in the search for knowledge. It serves a workshop for the entire university. The library is indeed, the heart and soul of the academe, for here rests the legacy of the human mind.</string>
+    <string name="library2">Location</string>
+    <string name="library3">The University of the Assumption Library is located at the 2nd &amp; 3rd floors of the Bishop Jesus C. Galang Building. (G-Bldg.)</string>
+    <string name="library">
+	<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:#d3d3d3;background-color:black;">
+ <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iSearch Books is a mobile application that will bridge the smartphone 
+  usage and the library using android technology. Students who are fond of going 
+  through the net with their devices will be combined with them using their mobile
+  phones to interact and gather information to the library. </p> 
+  
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The application provides
+  a search engine which contains the books of the library. Books were categorized
+  in different sections. It has also a feature wherein users can see the MAP of the
+  University Library. The application will run using an Android device. It was 
+  created using basic Java via tool called Eclipse.
+  </p> 
+ </body>
+</html>
+]]></string>
+
+      <string name="library2">
+	<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:#d3d3d3;background-color:black;">
+ <p>
+   &nbsp;&nbsp;&nbsp;&nbsp;The library is a major resource of any institution of higher learning.
+   College students study intensive fast-changing body of knowledge that 
+   even reading a half dozen books will not provide. Research occupies a 
+   very significant place in every colleges and universities. The library 
+   plays a vital role in the search for knowledge. It serves a workshop for 
+   the entire university. The library is indeed, the heart and soul of the academe, 
+   for here rests the legacy of the human mind.
+  </p>
+  <p>
+  <b>Location</b> </br>
+  The University of the Assumption Library is located at the 
+  2nd & 3rd floors of the Bishop Jesus C. Galang Building. (G-Bldg.)
+  </p>
+  <p>
+  <b>Library Hours</b> </br>
+  The Library is open from Monday </br>
+  8:00 A.M. to 12:00 N.N. </br>
+  12:00 N.N. to 1:00 P.M. Lunch Break </br>
+  1:00 P.M. to 5:00 P.M. </br>
+  Tuesday to Friday 7:30 A.M. to 7:00 P.M. </br>
+  Saturday 8:00 A.M. to 6:00 P.M.
+  </p>
+  <p>
+  <b>Summer Term</b></br>
+  The Library is open Monday to Friday, 8:00 A.M. to 5:00 P.M.;
+  Saturday, 8:00 A.M. to 5:00 P.M. The Library is closed on Sundays and official holidays.
+  </br></br>
+  <b>Vision and Mission</b></br>
+  The vision of the UA Library is to inform, educate, entertain,
+  and enrich the people of the Archdiocese of San Fernando and the entire Region III.
+  </br>
+  </br>
+  The mission of the UA Library is to support the Universitys
+  three-fold thrusts of Academic Excellence, Christian Formation and Community Services by:
+  <ul>
+  	<li>integrating information resources and skills into effective teaching, functional research and quality service mission of the university;</li>
+  	<li>developing collections which reflect divergent intellectual perspectives and cultural diversities;</li>
+  	<li>providing the highest level of service for the library users;</li>
+  	<li>Responding to the information communication technological (ICT) needs of the library users.</li>
+  </ul>
+  </p>
+  
+  <p>
+  <b>Goals and Objectives</b></br>
+  The UA Library, as the heart and soul of the institution, seeks 
+  to provide and enrich a program for the academic community 
+  that is comprised of updated collections both print and non-print
+  materials, complemented by responsive services rendered by loyal, 
+  dedicated and competent library staff.</br></br>
+  
+  Specifically, it aims to:</br>
+ 1.	provide the students and faculty members with materials needed for current teaching extension and research program;</br></br>
+ 2.	maintain library acquisition at a rate necessary to insure adequacy of the library collections;</br></br>
+ 3.	provide the physical facilities and equipment that will make the most effective library resources;</br></br>
+ 4.	guide clientele in the effective and efficient use of the library and of library resources; and,</br></br>
+ 5.	upgrade the qualifications of the library staff</br></br>
+ 6.	Establish appropriate linkages with other libraries and institutions.
+ 
+  </p>
+ </body>
+</html>
+]]></string>
+      <string name="Floorplan">Floor Plan</string>
+<string name="help2">
+	<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:#d3d3d3;background-color:black;">
+ <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If your mobile phone has internet connection, you can search 
+  in the Athena WebServer for you to know if the book is in shelf. It also has a myrad of features
+  you could use to further help you in searching a book. </p> 
+  
+ </body>
+</html>
+]]></string>
+
+<string name="help3">
+	<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:#d3d3d3;background-color:black;">
+ <p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For better viewing, turn on auto rotation of your phone and view it in 
+  landscape mode. You can pinch to zoom in and then swipe. You can use the other features
+  of the application in landscape mode too!</p> 
+  
+ </body>
+</html>
+]]></string>
+        
+</resources>

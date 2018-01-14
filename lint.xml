@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/Beyond/isearchbooks/BookActivity.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityReference.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityHRM.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityReserve.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityNursing.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityGrad.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityAudio.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityFil.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityTech.java" />
+        <ignore path="src/com/Beyond/isearchbooks/BookActivityCirc.java" />
+    </issue>
+</lint>
